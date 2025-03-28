@@ -4,5 +4,5 @@ This program grabs these codes using the API
 Code is probably not very good!
 # Requirements
 ```
-requests
+pip install requests
 ```
